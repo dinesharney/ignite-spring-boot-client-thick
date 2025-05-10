@@ -17,7 +17,7 @@ public class IgniteClientConfig {
     public Ignite igniteClientInstance() {
         IgniteConfiguration cfg = new IgniteConfiguration();
         cfg.setClientMode(true); //  Thick client mode
-        cfg.setPeerClassLoadingEnabled(true);
+        //cfg.setPeerClassLoadingEnabled(true);
 
         // Optional: Set discovery or client IP
         TcpDiscoverySpi discoverySpi = new TcpDiscoverySpi();

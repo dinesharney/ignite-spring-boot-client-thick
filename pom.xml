@@ -44,13 +44,6 @@
             <version>2.16.0</version>
         </dependency>
 
-        <!-- Optional: Faster serialization -->
-        <dependency>
-            <groupId>org.apache.ignite</groupId>
-            <artifactId>ignite-indexing</artifactId>
-            <version>2.16.0</version>
-        </dependency>
-
         <!-- Your Shared DTO Module -->
         <dependency>
             <groupId>com.example</groupId>
