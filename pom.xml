@@ -14,10 +14,10 @@
     </parent>
 
     <groupId>com.example</groupId>
-    <artifactId>ignite-spring-boot-client-thick</artifactId>
+    <artifactId>ignite-spring-client-node</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Ignite Thick Client</name>
-    <description>Spring Boot client using Apache Ignite thick client mode</description>
+    <name>Ignite Spring Thick Client</name>
+    <description>Spring Boot based Apache Ignite thick client</description>
 
     <properties>
         <java.version>17</java.version>

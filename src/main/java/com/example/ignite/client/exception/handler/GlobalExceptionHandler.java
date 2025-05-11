@@ -1,4 +1,4 @@
-package com.example.ignite.exception.handler;
+package com.example.ignite.client.exception.handler;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
